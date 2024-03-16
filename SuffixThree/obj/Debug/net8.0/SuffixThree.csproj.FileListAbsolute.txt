@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\bin\Debug\net8.0\SuffixThree.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\bin\Debug\net8.0\SuffixThree.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\bin\Debug\net8.0\SuffixThree.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\bin\Debug\net8.0\SuffixThree.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\bin\Debug\net8.0\SuffixThree.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\refint\SuffixThree.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\SuffixThree.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SuffixThree\SuffixThree\obj\Debug\net8.0\ref\SuffixThree.dll
